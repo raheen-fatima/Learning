@@ -2,6 +2,10 @@
 
 i learn echo , nano , touch , mkdir , rmdir commands
 
+find command to find the file and dir 
+- find . -type f/d (f for file and d for dir) 
+- find . -type f -iname "FileName*"
+
 mv command for rename and move item
 
 - syntax : mv [name] [new name] - syntax : mv [name] [new location]
