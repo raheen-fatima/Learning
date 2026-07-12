@@ -1,5 +1,8 @@
-AB, CEO and creative genius
-NN, hard-working intern
-IP, visual design
-VK, translation services
 TC, sound design
+AB, CEO and creative genius
+IP, visual design
+NN, hard-working intern
+VK, translation services
+Z
+X
+A
