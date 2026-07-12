@@ -1,2 +1,3 @@
 # Learning
-- learning/backend -> branch for learning backend path
+- backend/cli -> command line interface and power tools
+- backend/webArchitecture -> branch for learning Web architecture and fundamental
