@@ -6,3 +6,4 @@ VK, translation services
 Z
 X
 A
+IP, visual design
