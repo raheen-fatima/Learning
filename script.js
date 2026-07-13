@@ -8,11 +8,12 @@ function createPromise() {
         }
     })
 }
-
+//  promise.all means if one fail so all fail
 try {
     const promise1 = createPromise()
     const promise2 = createPromise()
     const promise3 = createPromise()
+
     const result = await Promise.all([promise1, promise2, promise3])
     console.log(result)
 } catch (err) {
